@@ -1,0 +1,14 @@
+[
+    {
+        "title": "E-Commerce APIs",
+        "description": "A collection of RESTful APIs for e-commerce applications, including product management, user authentication, and order processing.",
+        "technologies": ["Node.js", "Express", "MongoDB", "JWT"],
+        "githubLink": ""
+    },
+    {
+        "title": "Quotation Management",
+        "description": "A collection of RESTful APIs for e-commerce applications, including product management, user authentication, and order processing.",
+        "technologies": ["Node.js", "Express", "MongoDB", "JWT"],
+        "githubLink": "https://img.shields.io/badge/Code-000?logo=github&logoColor=white)](https://github.com/"
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "name": "python",
+        "logo": "🐍",
+        "category": "Programming Language"
+    },
+    {
+        "name": "javascript",
+        "logo": "🟨",
+        "category": "Programming Language"
+    },
+    {
+        "name": "Django",
+        "category": "Framework",
+        "programmingLanguage": "python"
+    },
+    {
+        "name": "Laravel",
+        "category": "Framework",
+        "programmingLanguage": "PHP"
+    }
+]
