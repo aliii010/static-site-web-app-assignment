@@ -17,7 +17,7 @@
 </template>
 
 <script>
-import Techs from "../../data/Techs.json";
+import Techs from "../../data/techs.json";
 
 export default {
   data() {

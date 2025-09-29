@@ -23,7 +23,7 @@
 </template>
 
 <script>
-import Projects from "../../data/Projects.json";
+import Projects from "../../data/projects.json";
 console.log("hlelowjfdkl;adj");
 
 export default {
